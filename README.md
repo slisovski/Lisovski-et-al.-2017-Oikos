@@ -2,7 +2,7 @@
 
 Original publication: http://onlinelibrary.wiley.com/doi/10.1111/oik.03796/full
 
-## This repository contains R code of the environmental data (NDVI) manipulation as well as the analysis of the AIV surveillance data (retrieved from www.flufb.org)  
+## This repository contains R code used in the analysis of environmental and AIV surveillance data
 
 
 ## Avian Influenza Surveillance Data
